@@ -1,5 +1,3 @@
 # very-simple-dos-detection
 
-Dataset: DDoS Evaluation Dataset (CIC-DDoS2019)
-
-Used Data: data/03-11/UDPLag.csv
+Dataset: https://www.researchgate.net/publication/292967044_Dataset-_Detecting_Distributed_Denial_of_Service_Attacks_Using_Data_Mining_Techniques
